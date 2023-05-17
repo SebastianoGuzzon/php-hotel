@@ -8,8 +8,8 @@
 
   <style>
   body {
-    background-color: #f8f9fa;
-    padding: 20px;
+    background-color: lightseagreen;
+    padding: 50px;
   }
 
   .container {
@@ -19,7 +19,7 @@
 
   h1 {
     text-align: center;
-    font-size: 28px;
+    font-size: 38px;
     color: #343a40;
     margin-bottom: 30px;
   }
